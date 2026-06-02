@@ -78,6 +78,13 @@ Very limited negative feedback suggests consistent training quality.
 
 Minor recommendations included requests for additional hands-on activities and extended session duration.
 ----------------------------------------------------------------------------------------------------------
+Sentiment Analysis (NLP)
+
+Applied VADER (NLTK) sentiment analysis on open-ended qualitative feedback responses
+Classified responses into Positive / Negative / Neutral sentiment categories
+Visualised sentiment distribution and trends in Power BI using custom DAX measures
+Enabled stakeholders to quantify qualitative feedback at scale — across schools, zones, designations, sessions, and training dates
+----------------------------------------------------------------------------------------------------------
 
 🎯 Business Impact
 
