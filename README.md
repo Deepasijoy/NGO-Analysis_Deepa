@@ -6,7 +6,8 @@
 
 
 
-
+# Data Confidentiality Notice
+This Portfolio version uses anonymized and representative data. The original project was developed using proprietary company data. While business-sensitive information has been modified, the dashboard architecture, data modeling approach, refresh mechanism, and analytical methodology remain representative of the original solution.
 
 # NGO-Analysis_Deepa
 This project analyzes structured teacher feedback data collected from a STEM-focused training program.  The objective was to transform raw multi-sheet feedback data into a structured analytical model and build an interactive Power BI dashboard to support data-driven evaluation and performance monitoring.
