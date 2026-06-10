@@ -1,3 +1,10 @@
+
+<img width="1302" height="750" alt="image" src="https://github.com/user-attachments/assets/33e3bbfc-8db2-4791-b8d2-af175a4aa478" />
+
+
+<img width="1316" height="710" alt="image" src="https://github.com/user-attachments/assets/74eb33af-fc6a-4813-a4ee-b3153fb650b4" />
+
+
 # NGO-Analysis_Deepa
 This project analyzes structured teacher feedback data collected from a STEM-focused training program.  The objective was to transform raw multi-sheet feedback data into a structured analytical model and build an interactive Power BI dashboard to support data-driven evaluation and performance monitoring.
 
