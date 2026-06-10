@@ -1,8 +1,11 @@
 
-<img width="1302" height="750" alt="image" src="https://github.com/user-attachments/assets/33e3bbfc-8db2-4791-b8d2-af175a4aa478" />
 
 
-<img width="1316" height="710" alt="image" src="https://github.com/user-attachments/assets/74eb33af-fc6a-4813-a4ee-b3153fb650b4" />
+<img width="1677" height="938" alt="mocksession_analysis" src="https://github.com/user-attachments/assets/edd6df3b-d236-4c24-90f1-5f2c7aefd68b" />
+<img width="1693" height="929" alt="Session_sentimentmock_analysis" src="https://github.com/user-attachments/assets/03744ce3-8000-4904-b2ac-22a5ef25e739" />
+
+
+
 
 
 # NGO-Analysis_Deepa
